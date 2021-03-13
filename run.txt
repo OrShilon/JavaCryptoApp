@@ -1,0 +1,2 @@
+java -cp program.jar Encrypt "pass11"
+java -cp program.jar Decrypt "pass22"
